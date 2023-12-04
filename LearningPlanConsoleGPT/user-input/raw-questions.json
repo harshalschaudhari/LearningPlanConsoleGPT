@@ -1,0 +1,18 @@
+﻿[
+  {
+    "Question": "What is {0} {1}?",
+    "FileExtension": "html"
+  },
+  {
+    "Question": "When to use {0} {1}?",
+    "FileExtension": "html"
+  },
+  {
+    "Question": "Why to use {0} {1}?",
+    "FileExtension": "html"
+  },
+  {
+    "Question": "Create an HTML web page, demonstration for  {0} {1}?",
+    "FileExtension": "html"
+  }
+]
