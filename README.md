@@ -97,7 +97,7 @@ Before running the application, ensure that you have the following prerequisites
 
  Run the application:
 ```console
- dotnet run
+ dotnet run --project .\LearningPlanConsoleGPT\LearningPlanConsoleGPT.csproj
 ```
 
 Follow the on-screen prompts -  It will show the output file name with its corresponding extension.
